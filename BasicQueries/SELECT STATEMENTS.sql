@@ -2,4 +2,6 @@
  FROM SalesLT.Product;
 
  SELECT * FROM SalesLT.Address;
+
+ select
  
