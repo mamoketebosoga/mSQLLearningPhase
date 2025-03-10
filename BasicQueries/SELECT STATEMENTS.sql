@@ -1,6 +1,6 @@
 USE AdventureWorksLT2022;
 GO
- SELECT * FROM SalesLT.Product;
+
 --Retrive a table named 'Product' from a 'SalesLT' Schema
 SELECT * FROM SalesLT.Product;
 
