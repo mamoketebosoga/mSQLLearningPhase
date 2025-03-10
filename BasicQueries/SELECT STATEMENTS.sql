@@ -1,5 +1,3 @@
-USE AdventureWorksLT2022;
-GO
 
 --Retrive a table named 'Product' from a 'SalesLT' Schema
 SELECT * FROM SalesLT.Product;
